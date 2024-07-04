@@ -1,0 +1,15 @@
+C:\Unity\C#TCPWebSocketServer\UnityTCPServer\C#TCPServer\TCPServer\TCPServer\bin\Debug\net7.0\TCPServer.exe
+C:\Unity\C#TCPWebSocketServer\UnityTCPServer\C#TCPServer\TCPServer\TCPServer\bin\Debug\net7.0\TCPServer.deps.json
+C:\Unity\C#TCPWebSocketServer\UnityTCPServer\C#TCPServer\TCPServer\TCPServer\bin\Debug\net7.0\TCPServer.runtimeconfig.json
+C:\Unity\C#TCPWebSocketServer\UnityTCPServer\C#TCPServer\TCPServer\TCPServer\bin\Debug\net7.0\TCPServer.dll
+C:\Unity\C#TCPWebSocketServer\UnityTCPServer\C#TCPServer\TCPServer\TCPServer\bin\Debug\net7.0\TCPServer.pdb
+C:\Unity\C#TCPWebSocketServer\UnityTCPServer\C#TCPServer\TCPServer\TCPServer\obj\Debug\net7.0\TCPServer.csproj.AssemblyReference.cache
+C:\Unity\C#TCPWebSocketServer\UnityTCPServer\C#TCPServer\TCPServer\TCPServer\obj\Debug\net7.0\TCPServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Unity\C#TCPWebSocketServer\UnityTCPServer\C#TCPServer\TCPServer\TCPServer\obj\Debug\net7.0\TCPServer.AssemblyInfoInputs.cache
+C:\Unity\C#TCPWebSocketServer\UnityTCPServer\C#TCPServer\TCPServer\TCPServer\obj\Debug\net7.0\TCPServer.AssemblyInfo.cs
+C:\Unity\C#TCPWebSocketServer\UnityTCPServer\C#TCPServer\TCPServer\TCPServer\obj\Debug\net7.0\TCPServer.csproj.CoreCompileInputs.cache
+C:\Unity\C#TCPWebSocketServer\UnityTCPServer\C#TCPServer\TCPServer\TCPServer\obj\Debug\net7.0\TCPServer.dll
+C:\Unity\C#TCPWebSocketServer\UnityTCPServer\C#TCPServer\TCPServer\TCPServer\obj\Debug\net7.0\refint\TCPServer.dll
+C:\Unity\C#TCPWebSocketServer\UnityTCPServer\C#TCPServer\TCPServer\TCPServer\obj\Debug\net7.0\TCPServer.pdb
+C:\Unity\C#TCPWebSocketServer\UnityTCPServer\C#TCPServer\TCPServer\TCPServer\obj\Debug\net7.0\TCPServer.genruntimeconfig.cache
+C:\Unity\C#TCPWebSocketServer\UnityTCPServer\C#TCPServer\TCPServer\TCPServer\obj\Debug\net7.0\ref\TCPServer.dll
